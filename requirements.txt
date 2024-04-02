@@ -1,0 +1,7 @@
+dlib==19.22.0
+numpy==1.22.0
+opencv-python==4.5.5.62
+pyTelegramBotAPI==4.1.1
+requests==2.26.0
+argparse==1.4.0
+ftplib==1.0.0
