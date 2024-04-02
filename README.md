@@ -1,4 +1,4 @@
-# Encontre seu Sósia
+# Encontre seu Sósia(Telegram Bot)
 
 Este é um projeto que utiliza reconhecimento facial para encontrar pessoas parecidas com você em imagens pela internet. 
 
